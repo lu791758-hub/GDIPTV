@@ -504,3 +504,6 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226645/100001000000000600000000017
 
 #EXTINF:-1 tvg-id="哈哈哈哈哈" tvg-name="哈哈哈哈哈" group-title="综艺轮播",哈哈哈哈哈
 https://cdn-3.ttvb.eu.org/huya/30080247
+
+#EXTINF:-1 tvg-id="跑男" tvg-name="跑男1-4季" group-title="综艺轮播",跑男
+https://cdn-3.ttvb.eu.org/huya/29465875
