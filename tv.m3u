@@ -522,7 +522,7 @@ https://iptv.001011.kdns.fr/huya/21059551?ratio=4000
 https://iptv.001011.kdns.fr/huya/11352875?ratio=4000
 
 #EXTINF:-1 tvg-id="朋友请吃饭" tvg-name="朋友请吃饭" group-title="综艺轮播",朋友请吃饭
-https://iptv.001011.kdns.fr/huya/11352918?ratio=4000
+http://192.168.5.6:35455/huya/11352918?ratio=4000
 
 #EXTINF:-1 tvg-id="中国好声音" tvg-name="中国好声音" group-title="综艺轮播",中国好声音
 https://iptv.001011.kdns.fr/huya/23746691?ratio=4000
