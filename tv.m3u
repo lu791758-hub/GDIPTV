@@ -602,6 +602,9 @@ https://txmov2.a.kwimgs.com/upic/2024/01/24/14/BMjAyNDAxMjQxNDQxMjZfODI4NTk1NTQ0
 #EXTINF:-1 tvg-id="贾斯丁比伯" tvg-name="贾斯丁比伯" group-title="歌手合集",贾斯丁比伯
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c73r123c77u5kmhu1kh0&ratio=720p&line=0
 
+#EXTINF:-1 tvg-id="老三国" tvg-name="老三国" group-title="电视剧合集",老三国
+http://192.168.5.6:35455/huya/11602081?ratio=4000
+
 #EXTINF:-1 tvg-id="新三国" tvg-name="新三国" group-title="电视剧合集",新三国
 http://192.168.5.6:35455/huya/11352944?ratio=4000
 
