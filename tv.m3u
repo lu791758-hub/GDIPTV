@@ -384,13 +384,13 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226687/100001000000000600000000021
 https://t.freetv.fun/live/shan-tou-zong-he-1.m3u8$LR•IPV4•27
 
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" group-title="地方",汕头新闻综合
-https://t.freetv.fun/live/shan-tou-zong-he.m3u8$LR•IPV4•27
+https://sttv-hls.strtv.cn/lKGXIQa/500/x5sgKgX.m3u8?sign=0096b4235e2ead9fa709f01532c4d251&t=6a6f8df0
 
 #EXTINF:-1 tvg-id="汕头新闻综合" tvg-name="汕头新闻综合" group-title="地方",汕头新闻综合
 http://119.134.176.152:8188/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="地方",汕头经济生活
-https://t.freetv.fun/live/shan-tou-jing-ji-sheng-huo.m3u8$LR•IPV4•13
+https://sttv-hls.strtv.cn/7xjJK9d/500/n72fxgJ.m3u8?sign=0fa9de642d4322554de3e6349a6a97ec&t=6a6f8c96
 
 #EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" group-title="地方",汕头经济生活
 http://119.134.176.152:8188/rtp/239.253.43.46:5146
